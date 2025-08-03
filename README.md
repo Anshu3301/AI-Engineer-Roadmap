@@ -32,10 +32,10 @@ https://docs.python.org/release/3.12.0/
 3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
 
 ### Free Courses On Linear Algebra, Stats
-1. Linear Algebra: [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/3eSVw8zn8DU?si=rOGp_9PXQjk8S0NP)   [![YouTube](https://img.shields.io/badge/Documentation-link-green)]([https://www.linkedin.com/jobs/view/3860957225/](https://www.khanacademy.org/math/linear-algebra))
+1. Linear Algebra: **001_Study Materials** Folder  |  https://www.khanacademy.org/math/linear-algebra
 
-2. Statistics: https://www.khanacademy.org/math/statistics-probability
-3. Differential Equations: https://www.khanacademy.org/math/differential-equations
+2. Statistics: **001_Study Materials** Folder | https://www.khanacademy.org/math/statistics-probability
+3. Differential Equations: **001_Study Materials** Folder  |  https://www.khanacademy.org/math/differential-equations
 
 ### EDA
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
